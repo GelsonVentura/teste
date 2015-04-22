@@ -1,0 +1,8 @@
+C:\Users\Gelson\Desktop\Hello_Word\Hello_Word\bin\Debug\Hello_Word.exe
+C:\Users\Gelson\Desktop\Hello_Word\Hello_Word\bin\Debug\Hello_Word.pdb
+C:\Users\Gelson\Desktop\Hello_Word\Hello_Word\obj\Debug\Hello_Word.csprojResolveAssemblyReference.cache
+C:\Users\Gelson\Desktop\Hello_Word\Hello_Word\obj\Debug\Hello_Word.Form1.resources
+C:\Users\Gelson\Desktop\Hello_Word\Hello_Word\obj\Debug\Hello_Word.Properties.Resources.resources
+C:\Users\Gelson\Desktop\Hello_Word\Hello_Word\obj\Debug\Hello_Word.csproj.GenerateResource.Cache
+C:\Users\Gelson\Desktop\Hello_Word\Hello_Word\obj\Debug\Hello_Word.exe
+C:\Users\Gelson\Desktop\Hello_Word\Hello_Word\obj\Debug\Hello_Word.pdb
